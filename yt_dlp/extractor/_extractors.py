@@ -1448,6 +1448,7 @@ from .prx import (
     PRXStoriesSearchIE,
     PRXSeriesSearchIE
 )
+from .pstream import PStreamIE
 from .puls4 import Puls4IE
 from .pyvideo import PyvideoIE
 from .qingting import QingTingIE
